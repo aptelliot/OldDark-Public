@@ -65,7 +65,7 @@ finder - aplicaciones - (arrastro la aplicación que quiera eliminar a la papele
 
 =======[ 🔴 05 - Fallo con Microsoft (Outlook, Excel y Word) ]======================================================
 # esta es una lista de los fallos que pueda tener con Microsoft:
-# 1 - Excel (o Word) no pueden abrir el archivo ".xlsx" porque el formato o la extensi´ñon no son válidos. Comprueve que el archivo no se ha dañado y que la extensión y el formato del archgivo coinciden: 
+# 1 - Excel (o Word) no pueden abrir el archivo ".xlsx" porque el formato o la extensión no son válidos. Comprueve que el archivo no se ha dañado y que la extensión y el formato del archgivo coinciden: 
       ## primero pruebo lo que me funcionó
       # Dar permisos completos a Office
       Menú Apple > Ajustes del sistema > Privacidad y seguridad > Acceso total al disco
@@ -74,7 +74,7 @@ finder - aplicaciones - (arrastro la aplicación que quiera eliminar a la papele
           · Microsoft Word
       # reiniciar pc 
 
-      # Dentro del excel, abro un nuevo proyecto
+# 2 - Dentro del excel, abro un nuevo proyecto
       Herramientas > Componentes > (deselecciono todos) > Aceptar
       # reinicio. (Si sigue sin funcionar lo dejo como estaba)
 
